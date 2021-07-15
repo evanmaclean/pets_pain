@@ -1,1 +1,1 @@
-# pets_pain
+# data and code for analyses and figures from paper on relationship between thinking of companion animals and the experience of psychological pain. 
